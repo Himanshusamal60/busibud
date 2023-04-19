@@ -1,0 +1,139 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@900&display=swap");
+.logo {
+  padding: 1.5% 0;
+  margin-bottom: 0;
+}
+
+.btn {
+  padding: 15px 40px;
+  border-radius: 33px;
+  font-family: Nunito sans;
+  font-weight: 600;
+  font-size: 18px;
+  box-shadow: 0px 16px 48px rgba(0, 0, 0, 0.1607843137);
+}
+
+.headbor {
+  border-top: 1.5px solid rgba(128, 128, 128, 0.86);
+}
+
+.nav-link {
+  font-family: "Nunito Sans", sans-serif;
+  color: black;
+  font-weight: 600;
+  font-size: 1.188rem;
+}
+
+.mainheading {
+  font-family: "Nunito Sans", sans-serif;
+  font-size: 2.5rem;
+  margin-bottom: 1.25rem;
+}
+
+.mainpa {
+  font-family: "Nunito Sans", sans-serif;
+  font-size: 1.125rem;
+  font-weight: 600;
+  color: black;
+  margin-bottom: 3.875rem;
+}
+
+h3 {
+  font-weight: bold;
+}
+
+.iconname {
+  font-weight: 600;
+}
+
+.carbox {
+  box-shadow: 0px 16px 48px rgba(0, 0, 0, 0.1607843137);
+  height: 22.688rem;
+  margin-bottom: 21.813rem;
+  width: 100%;
+  border-radius: 2.625rem;
+  padding-top: 2.438rem;
+  padding-left: 2.688rem;
+  z-index: 1;
+}
+
+.cardtitlename {
+  font-family: "Nunito Sans", sans-serif;
+  font-weight: 600;
+  font-size: 0.813rem;
+}
+
+.dis {
+  font-family: "Nunito Sans", sans-serif;
+  color: #615C5C;
+  font-weight: 600;
+  font-size: 0.813rem;
+}
+
+.smallicon {
+  height: 3.75rem;
+}
+
+.rating {
+  height: 0.938rem;
+  width: 0.938rem;
+}
+
+.titlecard {
+  border: none;
+  box-shadow: 0px 3px 6px rgba(0, 0, 0, 0.1607843137);
+}
+
+.cardsty {
+  border: none;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.cardsha {
+  box-shadow: 0px 16px 48px rgba(0, 0, 0, 0.1607843137);
+  height: 16.438rem;
+  border: none;
+  border-radius: 2.375rem;
+  z-index: 4;
+}
+
+.cardpara {
+  font-family: "Nunito Sans", sans-serif;
+  font-weight: 600;
+  font-size: 0.813rem;
+}
+
+.prevbtn, .nextbtn {
+  box-shadow: 0px 7px 17px rgba(0, 0, 0, 0.6901960784);
+  height: 60px;
+  width: 60px;
+  border-radius: 50%;
+  top: 25%;
+  z-index: 8;
+}
+
+.iconstyle {
+  height: 4.375rem;
+}
+
+.iconmarginbottom {
+  margin-bottom: 11.813rem;
+}
+
+footersec {
+  padding: 0;
+  margin: 0;
+}
+
+.footer {
+  height: 22.75rem;
+  padding: 0;
+  margin: 0;
+  background-color: rgb(0, 0, 0);
+}
+
+.foothead {
+  flex-basis: max-content;
+  margin-bottom: 3.25rem;
+}/*# sourceMappingURL=style.css.map */
